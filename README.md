@@ -2,22 +2,27 @@
 ## Table of Outline
 ## [Executive Summary](executive-summary)
 ## [Introduction](introduction)
+## [Data Sources](data-sources)
+## [Tools used](tools-used)
 ## [Data Overview](data-overview)
 ## [Data Analysis](data-analysis) 
-## [Employee Demographics](employee-demographics)
-## [Turnover and Retention](turnover-and-retention)
-## [Training and Development](training-and-development)
-## [Performance Management](performance-management)
 ## [Recommendations](recommendations)
 ## [Conclusion](conclusion)
 
 # Executive Summary 
 This report provides an overview of an Organization's HR data, highlighting key trends, metrics, and insights.  The data covers various aspects of HR, including employee demographics, turnover, training and perfomance management.
+
 # Introduction
 Our organization has a strong commitment to data - driven decision making. This report aind to provide actionable insights from HR data to inform strategic decisions and drive business outcomes. 
+
 # Data Sources
 This data is gotten from google.com
 - MS Excel [Download Here](https://docs.google.com/spreadsheets/d/1uaxBMDmSL8K2xk6qbtQ-4ba64rFUuyT5-fBlCodczpw/edit?gid=1017407445#gid=1017407445&range=1:1471)
+
+# Tools used
+For this report, the tools used are:
+- Google query
+- Power Bi
 
 # Data Overview 
 ## Employee Demographics
@@ -55,12 +60,12 @@ This data is gotten from google.com
 ![HR DATA IMAGE 9](https://github.com/user-attachments/assets/c5e5e3da-f966-4e3a-a1a5-65a02c201e03)
 
 
-## Recommendations
+# Recommendations
 Based on the data, we recommend the following:
 
 - Career Development Opportunities: Develop and promote career growth opportunities to reduce turnover and increase employee satisfaction.
 - Manaferial Training: Provide training for managers on effective communication, coaching, and performance management.
 - Employee Engagement: Conduct regular employee engagement surveys to monitor sentiment and identify areas of improvement.
 
-## Conclusion
+# Conclusion
 This report provides valuable insights into Skilharvest organization's HR data. By addressing the recommendations outlined above, we can improve employee satisfaction, reduce turnover, and drive business success.
