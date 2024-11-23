@@ -12,7 +12,6 @@ This report provides an overview of an Organization's HR data, highlighting key 
 
 ## Training and Development
 - Training hours: Employees received an average of 20hours of training in the past year.
-- Training topics: The most popular training topics were leadership development, communication skills and technical skills.
 - Training Satisfaction: 90% of employees reported being satisfied with the training they received.
 
 ## Performance Management
