@@ -10,15 +10,17 @@
 
 # Executive Summary 
 This report provides an overview of an Organization's HR data, highlighting key trends, metrics, and insights.  The data covers various aspects of HR, including employee demographics, turnover, training and perfomance management.
-# Data Analysis 
+# Introduction
+Our organization has a strong commitment to data - driven decision making. This report aind to provide actionable insights from HR data to inform strategic decisions and drive business outcomes. This data is gotten from 
+# Data Overview 
 ## Employee Demographics
 - Total number of employee: The total number of employee is 1470
 - Age Distribution: 7% of employees are under 25 years old, 72% of employees are between 25 -44 years old, while 21% are between 45 - above years old
 - Gender Distribution: 40% of employees are female while 60% are male.
 - Job Category Distribution: 4% of employees are in human resource department, 67% are in R&D department while 29% are in sales department.
-
+# Data Analysis 
 ## Turnover and Retention
-- Turnover Rate: 16% of employees left the organization in the past year.
+- Turnover Rate: 16% of employees left the organization in the past year. The top reasons for turnover are lack of career growth opportunities and poor management 
 - Retention Rate: 84% of employees have been with the organisation for more than 2 years.
 
 ## Training and Development
@@ -46,7 +48,7 @@ This report provides an overview of an Organization's HR data, highlighting key 
 
 
 ## Recommendations
-Based on the data, we recomment the following:
+Based on the data, we recommend the following:
 
 - Retention strategies: Develop strategies to reduce turnover, such as employee recognition programs and career development aopportunities.
 - Training and Development: Continue to invest in training and development programs.
