@@ -16,9 +16,9 @@ This report provides an overview of an Organization's HR data, highlighting key 
 Our organization has a strong commitment to data - driven decision making. This report aind to provide actionable insights from HR data to inform strategic decisions and drive business outcomes. 
 
 # Data Sources
-This data is gotten from google.com
+The primary source of Data used here is HR Data csv. and this is an open source data that can be freely downloaded from an open source online such as google or any other data repository site.
 
-# Tools used
+# Tools Used
 - Ms Excel [Download Here](https://docs.google.com/spreadsheets/d/1uaxBMDmSL8K2xk6qbtQ-4ba64rFUuyT5-fBlCodczpw/edit?gid=1017407445#gid=1017407445&range=1:1471)
   1. This is the major tool used for our analysis
   2. It helps us to pivot and analyse our data
