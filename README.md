@@ -1,9 +1,9 @@
-# HR DATA
+# SKILHARVEST HR DATA
 ## Table of Outline
-## [Executive Summary](executive - summary)
+## [Executive Summary](executive-summary)
 ## [Introduction](introduction)
-## [Data Overview](data - overview)
-## [Data Analysis](data - analysis) 
+## [Data Overview](data-overview)
+## [Data Analysis](data-analysis) 
 ## [Employee Demographics](employee-demographics)
 ## [Turnover and Retention](turnover-and-retention)
 ## [Training and Development](training-and-development)
