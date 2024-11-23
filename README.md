@@ -8,9 +8,11 @@
 ## [Recommendations](recommendations)
 ## [Conclusion](conclusion)
 
-# Introduction
+# Executive Summary 
 This report provides an overview of an Organization's HR data, highlighting key trends, metrics, and insights.  The data covers various aspects of HR, including employee demographics, turnover, training and perfomance management.
+# Data Analysis 
 ## Employee Demographics
+- Total number of employee: The total number of employee is 1470
 - Age Distribution: 7% of employees are under 25 years old, 72% of employees are between 25 -44 years old, while 21% are between 45 - above years old
 - Gender Distribution: 40% of employees are female while 60% are male.
 - Job Category Distribution: 4% of employees are in human resource department, 67% are in R&D department while 29% are in sales department.
