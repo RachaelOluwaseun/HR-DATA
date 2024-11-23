@@ -19,6 +19,7 @@ This report provides an overview of an Organization's HR data, highlighting key 
 - Goal Achievement: 75% of employees achieved their performance goals.
 - Performance improvement plans: 10% of employees were placed on performance improvement plans.
 
+![HR DATA IMAGE 14](https://github.com/user-attachments/assets/654819ca-fce1-466a-b8f2-378ac6e4b39d)
 
 ![HR DATA IMAGE 8](https://github.com/user-attachments/assets/8d711e67-b012-4ba9-bf43-f10ee1dce302)
 ![HR DATA IMAGE 5](https://github.com/user-attachments/assets/ed77237f-b975-4652-8678-1c6a652f8a50)
