@@ -1,12 +1,12 @@
 # HR DATA
-# Outline
-## Introduction
-## Employee Demographics
-## Turnover and Retention
-## Training and Development
-## Performance Management
-## Recommendations
-## Conclusion
+## Table of Outline
+## [Introduction](introduction)
+## [Employee Demographics](employee-demographics
+## [Turnover and Retention](turnover-and-retention)
+## [Training and Development](training-and-development)
+## [Performance Management](performance-management)
+## [Recommendations](recommendations)
+## [Conclusion](conclusion)
 
 # Introduction
 This report provides an overview of an Organization's HR data, highlighting key trends, metrics, and insights.  The data covers various aspects of HR, including employee demographics, turnover, training and perfomance management.
