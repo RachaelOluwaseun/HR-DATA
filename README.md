@@ -19,4 +19,20 @@ This report provides an overview of an Organization's HR data, highlighting key 
 - Goal Achievement: 75% of employees achieved their performance goals.
 - Performance improvement plans: 10% of employees were placed on performance improvement plans.
 
+
+![HR DATA IMAGE 8](https://github.com/user-attachments/assets/8d711e67-b012-4ba9-bf43-f10ee1dce302)
+![HR DATA IMAGE 5](https://github.com/user-attachments/assets/ed77237f-b975-4652-8678-1c6a652f8a50)
+![HR DATA IMAGE 4](https://github.com/user-attachments/assets/83588fd2-e689-4698-b575-f308901e4a0f)
+![HR DATA IMAGE 3](https://github.com/user-attachments/assets/06efd21b-1831-4536-9fb7-df03e4413938)
+![HR DATA IMAGE 2](https://github.com/user-attachments/assets/2cd29a56-93b9-46fa-888c-401d19c9fd74)
+![HR DATA IMAGE 1](https://github.com/user-attachments/assets/019a4d73-4153-41b1-a8dc-40d2d3a9fcd0)
+![HR DATA IMAGE 13](https://github.com/user-attachments/assets/cc842059-0dc2-4282-9820-eb7bfc3aca80)
+![HR DATA IMAGE 12](https://github.com/user-attachments/assets/e2c9cd7b-bbc6-4cd6-999e-10e666852b4d)
+![HR DATA IMAGE 11](https://github.com/user-attachments/assets/cd42e380-5447-40c5-84aa-e5441a437415)
+![HR DATA IMAGE 10](https://github.com/user-attachments/assets/0670c47b-b6a8-4538-aef8-b94937075a75)
+![HR DATA IMAGE 9](https://github.com/user-attachments/assets/c5e5e3da-f966-4e3a-a1a5-65a02c201e03)
+
+
+
+
 ## Recommendations
