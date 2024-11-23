@@ -14,7 +14,10 @@
 # Executive Summary 
 This report provides an overview of an Organization's HR data, highlighting key trends, metrics, and insights.  The data covers various aspects of HR, including employee demographics, turnover, training and perfomance management.
 # Introduction
-Our organization has a strong commitment to data - driven decision making. This report aind to provide actionable insights from HR data to inform strategic decisions and drive business outcomes. This data is gotten from 
+Our organization has a strong commitment to data - driven decision making. This report aind to provide actionable insights from HR data to inform strategic decisions and drive business outcomes. 
+# Data Sources
+This data is gotten from kaggle.com
+- MS Excel [Download Here](https://www.
 
 # Data Overview 
 ## Employee Demographics
