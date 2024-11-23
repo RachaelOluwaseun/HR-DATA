@@ -15,7 +15,7 @@ This report provides an overview of an Organization's HR data, highlighting key 
 - Training Satisfaction: 90% of employees reported being satisfied with the training they received.
 
 ## Performance Management
-- Performance Ratings: 80%  of employees received a performance rating or "meets expectations" or higher.
+- Performance Ratings: 83%  of employees received a performance rating or "meets expectations" or higher.
 - Goal Achievement: 75% of employees achieved their performance goals.
 - Performance improvement plans: 10% of employees were placed on performance improvement plans.
 
