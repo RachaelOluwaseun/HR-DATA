@@ -16,7 +16,7 @@ This report provides an overview of an Organization's HR data, highlighting key 
 # Introduction
 Our organization has a strong commitment to data - driven decision making. This report aind to provide actionable insights from HR data to inform strategic decisions and drive business outcomes. 
 # Data Sources
-This data is gotten from kaggle.com
+This data is gotten from google.com
 - MS Excel [Download Here](https://docs.google.com/spreadsheets/d/1uaxBMDmSL8K2xk6qbtQ-4ba64rFUuyT5-fBlCodczpw/edit?gid=1017407445#gid=1017407445&range=1:1471)
 
 # Data Overview 
@@ -58,10 +58,9 @@ This data is gotten from kaggle.com
 ## Recommendations
 Based on the data, we recommend the following:
 
-- Retention strategies: Develop strategies to reduce turnover, such as employee recognition programs and career development aopportunities.
-- Training and Development: Continue to invest in training and development programs.
-- Performance management: Refine the performance management process to ensure that employees are receiving regular feedback and coaching.
+- Career Development Opportunities: Develop and promote career growth opportunities to reduce turnover and increase employee satisfaction.
+- Manaferial Training: Provide training for managers on effective communication, coaching, and performance management.
+- Employee Engagement: Conduct regular employee engagement surveys to monitor sentiment and identify areas of improvement.
 
 ## Conclusion
-This report provides valuable insights into an organization's HR data. By analyzing these metrics, we can identify areas for improvement and develop strategies to enhance employee engagement, retention and performance.
-
+This report provides valuable insights into Skilharvest organization's HR data. By addressing the recommendations outlined above, we can improve employee satisfaction, reduce turnover, and drive business success.
