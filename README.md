@@ -17,12 +17,13 @@ Our organization has a strong commitment to data - driven decision making. This 
 
 # Data Sources
 This data is gotten from google.com
-- MS Excel [Download Here](https://docs.google.com/spreadsheets/d/1uaxBMDmSL8K2xk6qbtQ-4ba64rFUuyT5-fBlCodczpw/edit?gid=1017407445#gid=1017407445&range=1:1471)
 
 # Tools used
-For this report, the tools used are:
-- Google query
-- Power Bi
+- Ms Excel [Download Here](https://docs.google.com/spreadsheets/d/1uaxBMDmSL8K2xk6qbtQ-4ba64rFUuyT5-fBlCodczpw/edit?gid=1017407445#gid=1017407445&range=1:1471)
+  1. This is the major tool used for our analysis
+  2. It helps us to pivot and analyse our data
+- Microsoft Power BI
+- Google sheet
 
 # Data Overview 
 ## Employee Demographics
