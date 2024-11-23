@@ -1,7 +1,7 @@
 # HR DATA
 ## Table of Outline
 ## [Introduction](introduction)
-## [Employee Demographics](employee-demographics
+## [Employee Demographics](employee-demographics)
 ## [Turnover and Retention](turnover-and-retention)
 ## [Training and Development](training-and-development)
 ## [Performance Management](performance-management)
